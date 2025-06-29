@@ -19,7 +19,7 @@ Out of the total 156 recognized zoos in the country, only 13 had submitted their
 The remaining data about categorization and ownership of zoos in India, as well as the classification of animals was taken from [https://cza.nic.in/page/en/faqs](https://cza.nic.in/page/en/faqs)
 
 ### How I analysed data
-I started by scrapping [https://cza.nic.in/information-about-zoos/en](https://cza.nic.in/information-about-zoos/en) through BeautifulSoup. Since website had data about 525 zoos, which was paginated in 53 pages, I took help of a Teaching Assistant to apply a for loop. Then Pandas helped me filter out the derecognized zoos and get the state-wise data of the recognized zoos.  
+I started by scrapping [https://cza.nic.in/information-about-zoos/en](https://cza.nic.in/information-about-zoos/en) through BeautifulSoup. Since website had data about 525 zoos, which was paginated in 53 pages, I took help of a Teaching Assistant to apply a for loop. Then Pandas helped me filter out the derecognized zoos and get the state-wise data of the recognized zoos. My scrapping, data collection, and analysis can be seen in 'zoo.ipynb' file in this repository.
 Rest of the data was readily available at [https://cza.nic.in/page/en/faqs](https://cza.nic.in/page/en/faqs) and didn't require any analysis.
 
 ### New skills applied
