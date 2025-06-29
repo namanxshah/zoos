@@ -8,6 +8,9 @@ For my first project, I decided to see how much impact has the awareness around 
 ### Findings
 My assumption about the shrinking popularity of zoos fell flat when I checked the visitors data. I found no decline in the footfall in Indian zoos. Although the initial narrative of my story changed, but the broader theme about the number of zoo visitors still stood. I packaged it with the reasons about why zoos still attract masses.
 
+### Story URL
+[https://namanxshah.github.io/zoos/](https://namanxshah.github.io/zoos/)
+
 ### How I collected the data
 Part of the reason why I chose this story was the opportunity to utilise my newly-acquired scrapping skills and extract the data from the website of India's Central Zoo Authority - [https://cza.nic.in/information-about-zoos/en](https://cza.nic.in/information-about-zoos/en)  
 However, scrapping the webpage only helped with a small dataset about the total number of zoos and the state-wise numbers. To find the data of visitors, I had to dig in through the annual reports of each zoo separately. But very few zoos were consistent in submitting their annual reports. So I took the visitors' data of only those zoos, which had published their annual reports for 2024-25 and compared them with their visitors data of the previous eight years. Annual reports for earlier years were not available at [https://cza.nic.in/annual-reports-of-zoos/en](https://cza.nic.in/annual-reports-of-zoos/en).  
